@@ -1,0 +1,19 @@
+{
+    "name": "nhoncq/authentication",
+    "description": "package provide mothods to authentication user using passport",
+    "require": {
+        "laravel/passport": "^11.10"
+    },
+    "license": "Non license",
+    "autoload": {
+        "psr-4": {
+            "Nhoncq\\Authentication\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NhonCQ",
+            "email": "quenhon2002@gmail.com"
+        }
+    ]
+}
